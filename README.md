@@ -1,4 +1,3 @@
-Made as part of an Introduction to Robotics assignment in my 2nd Year of Computer Science<br/>
 Made by Elvin Jiby in PyCharm<br/>
 30/04/2024<br/>
 <br/>
